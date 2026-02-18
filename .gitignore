@@ -1,0 +1,15 @@
+# Binaries
+testing-app
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Dependency directories
+vendor/
+
+# Go mod cache
+go.sum
